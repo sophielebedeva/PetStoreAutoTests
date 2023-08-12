@@ -1,0 +1,1 @@
+Simple rest assured tests for PetStore from swagger
